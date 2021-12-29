@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  color: beige;
+  padding: 0;
+  background-image: url("https://th.bing.com/th/id/OIP.DqrjcSU9AQqbCl6P6m1V7gHaEK?pid=ImgDet&rs=1");
+}
+
+h1 {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+#bulb-container {
+  display: flex;
+}
+
+img {
+  height: 50vh;
+  width: 20vw;
+  margin: auto;
+}
+
+#switch {
+  position: absolute;
+  top: 73%;
+  left: 67%;
+  cursor: pointer;
+}
